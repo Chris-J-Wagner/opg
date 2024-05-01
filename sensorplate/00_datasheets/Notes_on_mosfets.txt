@@ -1,0 +1,8 @@
+Momentan verwendet:
+rv3c002unt2cl_n_ch_mosfet (0604), ist aber sehr! klein und
+erlaubt kein routing unter dem chip.
+Außerdem sehr geringes Ugs -> ka, ob da evtl. mal zu früh getriggert wird
+wenn die PD voll ausgeleuchtet wird (negative V_CA spannung baut sich auf)
+Deswegen Alternative: NX138AKM-n_ch_mosfet
+-> höhere Ugs und etwas größerer footprint (1060), wo genau eine 0.15mm trace
+durchpasst mit 0.1mm Rand.

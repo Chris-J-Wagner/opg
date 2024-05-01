@@ -1,0 +1,5 @@
+vcsel-current: 1.8 mA
+Bürolicht (Energiesparlampe)
+
+TODO: Macht es Sinn, 2x zu kalibrieren, damit der erste
+Spike bei S11 weggeht? (Und der sehr lamgsame Verlauf)
