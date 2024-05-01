@@ -1,0 +1,21 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : PCB Document [opg_control_unit_pcb.PcbDoc]
+   Generated File[opg_control_unit_pcb_Copper_Signal_Top.gbr]
+   Generated File[opg_control_unit_pcb_Copper_Signal_Bot.gbr]
+   Generated File[opg_control_unit_pcb_Soldermask_Bot.gbr]
+   Generated File[opg_control_unit_pcb_Paste_Bot.gbr]
+   Generated File[opg_control_unit_pcb_Paste_Top.gbr]
+   Generated File[opg_control_unit_pcb_Soldermask_Top.gbr]
+   Generated File[opg_control_unit_pcb_Legend_Bot.gbr]
+   Generated File[opg_control_unit_pcb_Legend_Top.gbr]
+   Generated File[opg_control_unit_pcb_Profile.gbr]
+   Generated File[ProjectName.RUL]
+   Generated File[ProjectName.EXTREP]
+   Generated File[ProjectName.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 23:39:25 On 18.02.2022

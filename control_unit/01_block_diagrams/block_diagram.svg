@@ -1,0 +1,2860 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="193mm"
+   height="189mm"
+   viewBox="0 0 193 189"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="block_diagram.svg"
+   inkscape:export-filename="C:\Users\chris\Documents\Institut\protokolle_und_praesentationen\2022\Forschungsseminar\block_diagram_s.png"
+   inkscape:export-xdpi="394.82001"
+   inkscape:export-ydpi="394.82001"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.4681257"
+     inkscape:cx="334.09947"
+     inkscape:cy="505.06576"
+     inkscape:window-width="1920"
+     inkscape:window-height="1129"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer16"
+     inkscape:snap-nodes="true" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible;"
+       id="marker3844"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path3842" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker3429"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path3427" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker2710"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path2708" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="marker1781"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4) rotate(180) translate(10,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path1529" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker64599"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path64597" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path26738" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutL"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleOutL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path26853" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleInL"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="TriangleInL"
+       inkscape:isstock="true">
+      <path
+         transform="scale(-0.8)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path26844" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker55787"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path55785" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path26717" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path26720" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Mstart"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.6)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path26735" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow2Lend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow2Lend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="fill:context-stroke;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         id="path26732" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker55787-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path55785-0" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path26720-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend-2-9"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path26720-9-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path26720-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend-2-9-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path26720-9-7-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path26720-91" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker55787-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path55785-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker55787-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path55785-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker55787-4-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path55785-0-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend-46"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path26720-68" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker11720"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path11718" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker11724"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path11722" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker11728"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path11726" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker11732"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path11730" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mstart-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path26717-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker12044"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path12042" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker55787-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path55785-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1590"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1588" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path26720-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1596"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1594" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1600"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1598" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1604"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1602" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1608"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1606" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mstart-82"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path26717-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker1614"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1612" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend-3"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path26720-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker55787-08"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path55785-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend-3-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path26720-2-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend-28"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path26720-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2616"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2614" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2620"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2618" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2624"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2622" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2628"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2626" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mstart-1"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path26717-1" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker2634"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path2632" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker55787-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path55785-2" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend-0"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path26720-49" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker64599-7"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path64597-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker17842"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path17840" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker17846"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path17844" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker17850"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mstart"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(0.4,0,0,0.4,4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path17848" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Concept"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:none">
+    <rect
+       style="fill:#94f9ff;fill-opacity:1;stroke:#000000;stroke-width:0.317273"
+       id="rect851"
+       width="33.776627"
+       height="35.724243"
+       x="10.693079"
+       y="43.130844"
+       ry="4.566256"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\protokolle_und_praesentationen\2022\Forschungsseminar\block_diagram_concept.png"
+       inkscape:export-xdpi="959.55603"
+       inkscape:export-ydpi="959.55603" />
+    <rect
+       style="fill:#94ff98;fill-opacity:1;stroke:#000000;stroke-width:0.298245"
+       id="rect851-5"
+       width="29.830849"
+       height="35.743271"
+       x="73.554443"
+       y="43.524452"
+       ry="4.5686884"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\protokolle_und_praesentationen\2022\Forschungsseminar\block_diagram_concept.png"
+       inkscape:export-xdpi="959.55603"
+       inkscape:export-ydpi="959.55603" />
+    <rect
+       style="fill:#ffdc94;fill-opacity:1;stroke:#000000;stroke-width:0.298245"
+       id="rect851-5-6"
+       width="29.830849"
+       height="35.743271"
+       x="147.18465"
+       y="44.061943"
+       ry="4.5686884"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\protokolle_und_praesentationen\2022\Forschungsseminar\block_diagram_concept.png"
+       inkscape:export-xdpi="959.55603"
+       inkscape:export-ydpi="959.55603" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';font-variant-ligatures:none;stroke-width:0.264583"
+       x="14.058594"
+       y="62.355583"
+       id="text2939"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\protokolle_und_praesentationen\2022\Forschungsseminar\block_diagram_concept.png"
+       inkscape:export-xdpi="959.55603"
+       inkscape:export-ydpi="959.55603"><tspan
+         sodipodi:role="line"
+         id="tspan2937"
+         style="stroke-width:0.264583"
+         x="14.058594"
+         y="62.355583">Controller</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';font-variant-ligatures:none;stroke-width:0.264583"
+       x="77.313713"
+       y="63.650856"
+       id="text5091"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\protokolle_und_praesentationen\2022\Forschungsseminar\block_diagram_concept.png"
+       inkscape:export-xdpi="959.55603"
+       inkscape:export-ydpi="959.55603"><tspan
+         sodipodi:role="line"
+         id="tspan5089"
+         style="stroke-width:0.264583"
+         x="77.313713"
+         y="63.650856">Receiver</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';font-variant-ligatures:none;stroke-width:0.264583"
+       x="153.2294"
+       y="63.686451"
+       id="text6769"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\protokolle_und_praesentationen\2022\Forschungsseminar\block_diagram_concept.png"
+       inkscape:export-xdpi="959.55603"
+       inkscape:export-ydpi="959.55603"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583"
+         x="153.2294"
+         y="63.686451"
+         id="tspan8967">Sensor</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 147.1581,54.651205 H 103.30344"
+       id="path9742"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\protokolle_und_praesentationen\2022\Forschungsseminar\block_diagram_concept.png"
+       inkscape:export-xdpi="959.55603"
+       inkscape:export-ydpi="959.55603" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 147.16903,72.937939 H 103.49459"
+       id="path9744"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\protokolle_und_praesentationen\2022\Forschungsseminar\block_diagram_concept.png"
+       inkscape:export-xdpi="959.55603"
+       inkscape:export-ydpi="959.55603" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 115.6645,52.994568 3.377,3.376991"
+       id="path9859"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\protokolle_und_praesentationen\2022\Forschungsseminar\block_diagram_concept.png"
+       inkscape:export-xdpi="959.55603"
+       inkscape:export-ydpi="959.55603" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 115.85523,71.376878 3.377,3.376991"
+       id="path9859-7"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\protokolle_und_praesentationen\2022\Forschungsseminar\block_diagram_concept.png"
+       inkscape:export-xdpi="959.55603"
+       inkscape:export-ydpi="959.55603" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';font-variant-ligatures:none;stroke-width:0.264583"
+       x="106.17071"
+       y="51.72023"
+       id="text11168"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\protokolle_und_praesentationen\2022\Forschungsseminar\block_diagram_concept.png"
+       inkscape:export-xdpi="959.55603"
+       inkscape:export-ydpi="959.55603"><tspan
+         sodipodi:role="line"
+         id="tspan11166"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="106.17071"
+         y="51.72023">Photo currents</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';font-variant-ligatures:none;stroke-width:0.264583"
+       x="105.95245"
+       y="69.928116"
+       id="text11168-3"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\protokolle_und_praesentationen\2022\Forschungsseminar\block_diagram_concept.png"
+       inkscape:export-xdpi="959.55603"
+       inkscape:export-ydpi="959.55603"><tspan
+         sodipodi:role="line"
+         id="tspan11166-0"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="105.95245"
+         y="69.928116">Gate voltages</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 147.1465,62.772066 H 103.49459"
+       id="path9744-9"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\protokolle_und_praesentationen\2022\Forschungsseminar\block_diagram_concept.png"
+       inkscape:export-xdpi="959.55603"
+       inkscape:export-ydpi="959.55603" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 115.85523,61.211005 3.377,3.376991"
+       id="path9859-7-0"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\protokolle_und_praesentationen\2022\Forschungsseminar\block_diagram_concept.png"
+       inkscape:export-xdpi="959.55603"
+       inkscape:export-ydpi="959.55603" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';font-variant-ligatures:none;stroke-width:0.264583"
+       x="105.95245"
+       y="60.335693"
+       id="text11168-3-3"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\protokolle_und_praesentationen\2022\Forschungsseminar\block_diagram_concept.png"
+       inkscape:export-xdpi="959.55603"
+       inkscape:export-ydpi="959.55603"><tspan
+         sodipodi:role="line"
+         id="tspan11166-0-9"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="105.95245"
+         y="60.335693">Emitter currents</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 44.588367,54.651205 H 73.483955"
+       id="path15402"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\protokolle_und_praesentationen\2022\Forschungsseminar\block_diagram_concept.png"
+       inkscape:export-xdpi="959.55603"
+       inkscape:export-ydpi="959.55603" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="M 44.460932,62.042359 H 73.006079"
+       id="path15404"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\protokolle_und_praesentationen\2022\Forschungsseminar\block_diagram_concept.png"
+       inkscape:export-xdpi="959.55603"
+       inkscape:export-ydpi="959.55603" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#Arrow1Mstart)"
+       d="M 44.954738,73.192806 H 73.59546"
+       id="path15404-2"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\protokolle_und_praesentationen\2022\Forschungsseminar\block_diagram_concept.png"
+       inkscape:export-xdpi="959.55603"
+       inkscape:export-ydpi="959.55603" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';font-variant-ligatures:none;stroke-width:0.264583"
+       x="45.958275"
+       y="51.274212"
+       id="text18150"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\protokolle_und_praesentationen\2022\Forschungsseminar\block_diagram_concept.png"
+       inkscape:export-xdpi="959.55603"
+       inkscape:export-ydpi="959.55603"><tspan
+         sodipodi:role="line"
+         id="tspan18148"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="45.958275"
+         y="51.274212">MUX signals</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 55.993678,52.835277 3.377,3.376991"
+       id="path9859-2"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\protokolle_und_praesentationen\2022\Forschungsseminar\block_diagram_concept.png"
+       inkscape:export-xdpi="959.55603"
+       inkscape:export-ydpi="959.55603" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';font-variant-ligatures:none;stroke-width:0.264583"
+       x="45.958275"
+       y="61.086605"
+       id="text21082"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\protokolle_und_praesentationen\2022\Forschungsseminar\block_diagram_concept.png"
+       inkscape:export-xdpi="959.55603"
+       inkscape:export-ydpi="959.55603"><tspan
+         sodipodi:role="line"
+         id="tspan21080"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="45.958275"
+         y="61.086605">Emitter currents</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.52778px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';font-variant-ligatures:none;stroke-width:0.264583"
+       x="45.958275"
+       y="71.47245"
+       id="text26169"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\protokolle_und_praesentationen\2022\Forschungsseminar\block_diagram_concept.png"
+       inkscape:export-xdpi="959.55603"
+       inkscape:export-ydpi="959.55603"><tspan
+         sodipodi:role="line"
+         id="tspan26167"
+         style="font-size:3.52778px;stroke-width:0.264583"
+         x="45.958275"
+         y="71.47245">Photo currents</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.793749, 0.793749;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 140.02973,38.206311 v 47.57767"
+       id="path32548"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\protokolle_und_praesentationen\2022\Forschungsseminar\block_diagram_concept.png"
+       inkscape:export-xdpi="959.55603"
+       inkscape:export-ydpi="959.55603" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';font-variant-ligatures:none;stroke-width:0.264583"
+       x="67.539856"
+       y="33.132759"
+       id="text16959"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\protokolle_und_praesentationen\2022\Forschungsseminar\block_diagram_concept.png"
+       inkscape:export-xdpi="959.55603"
+       inkscape:export-ydpi="959.55603"><tspan
+         sodipodi:role="line"
+         id="tspan16957"
+         style="stroke-width:0.264583"
+         x="67.539856"
+         y="33.132759">Extraoral</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;line-height:1.25;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';font-variant-ligatures:none;display:inline;stroke-width:0.264583"
+       x="151.42929"
+       y="33.13245"
+       id="text16959-3"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\protokolle_und_praesentationen\2022\Forschungsseminar\block_diagram_concept.png"
+       inkscape:export-xdpi="959.55603"
+       inkscape:export-ydpi="959.55603"><tspan
+         sodipodi:role="line"
+         id="tspan16957-8"
+         style="stroke-width:0.264583"
+         x="151.42929"
+         y="33.13245">Intraoral</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 94.255649,34.661964 H 64.887166"
+       id="path19420"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\protokolle_und_praesentationen\2022\Forschungsseminar\block_diagram_concept.png"
+       inkscape:export-xdpi="959.55603"
+       inkscape:export-ydpi="959.55603" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 175.86224,34.661964 H 149.8364"
+       id="path19422"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\protokolle_und_praesentationen\2022\Forschungsseminar\block_diagram_concept.png"
+       inkscape:export-xdpi="959.55603"
+       inkscape:export-ydpi="959.55603" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="controller_parts"
+     style="display:inline">
+    <path
+       style="display:inline;fill:#94f9ff;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 43.005677,14.662936 h 13.696602 l 9.010922,8.92081 -9.010922,9.10103 H 43.005677 Z"
+       id="path32709"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <rect
+       style="display:inline;fill:#94f9ff;fill-opacity:1;stroke:#000000;stroke-width:0.238124;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect33102-1-3-3"
+       width="17.999876"
+       height="17.999876"
+       x="42.921005"
+       y="60.523651"
+       ry="0"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <rect
+       style="display:inline;fill:#94f9ff;fill-opacity:1;stroke:#000000;stroke-width:0.238124;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect33102-1-3-9"
+       width="17.999876"
+       height="17.999876"
+       x="70.382347"
+       y="89.154053"
+       ry="0"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <path
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3429)"
+       d="m 73.401802,82.251606 v 6.42844"
+       id="path54844-47-4"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <path
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2710)"
+       d="m 35.946136,63.844936 h 6.42844"
+       id="path54844-47-4-0"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <path
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1781)"
+       d="M 45.426917,7.6610442 V 14.089486"
+       id="path54844-47-4-0-8"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <path
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1781)"
+       d="M 52.881788,7.6610442 V 14.089486"
+       id="path54844-47-4-0-8-3"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.264999;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect56337"
+       width="6.6265516"
+       height="6.6265516"
+       x="-16.720161"
+       y="122.21799"
+       transform="rotate(-44.933088)"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutL)"
+       d="M 79.199395,100.72988 V 96.967816"
+       id="path56598"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 79.174593,93.650946 v -2.40507"
+       id="path56866"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 79.16365,103.02231 v 2.37072"
+       id="path56868"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.93888889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:none;display:inline;stroke-width:0.264583;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="46.151836"
+       y="25.533712"
+       id="text57622"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999"><tspan
+         sodipodi:role="line"
+         id="tspan57620"
+         style="stroke-width:0.264583;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:4.93888889px"
+         x="46.151836"
+         y="25.533712">ADC</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93888889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:none;display:inline;stroke-width:0.264583;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="45.430965"
+       y="71.263931"
+       id="text59359"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999"><tspan
+         sodipodi:role="line"
+         id="tspan59357"
+         style="stroke-width:0.264583;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:4.93888889px"
+         x="45.430965"
+         y="71.263931">MCU</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:none;display:inline;fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+       x="41.161083"
+       y="6.4353929"
+       id="text67532"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999"><tspan
+         sodipodi:role="line"
+         id="tspan67530"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+         x="41.161083"
+         y="6.4353929">5V</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:none;display:inline;fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+       x="51.731457"
+       y="6.5304551"
+       id="text67532-2"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999"><tspan
+         sodipodi:role="line"
+         id="tspan67530-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+         x="51.731457"
+         y="6.5304551">3.3V</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:none;display:inline;fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+       x="25.350792"
+       y="65.082443"
+       id="text67532-2-5"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999"><tspan
+         sodipodi:role="line"
+         id="tspan67530-5-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+         x="25.350792"
+         y="65.082443">3.3V</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93888889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:none;display:inline;fill:#ff0000;fill-opacity:1;stroke-width:0.264583;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="71.281944"
+       y="81.471985"
+       id="text67532-6"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999"><tspan
+         sodipodi:role="line"
+         id="tspan67530-0"
+         style="fill:#ff0000;fill-opacity:1;stroke-width:0.264583;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:4.93888889px"
+         x="71.281944"
+         y="81.471985">5V</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 88.346882,92.154026 h 6.428442"
+       id="path54844-47"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 88.346882,104.15396 h 6.428442"
+       id="path54844-95"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="receiver_parts"
+     style="display:inline">
+    <path
+       style="fill:#94ff98;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 132.4314,28.945246 v -10.723 l 8.27909,-3.36814 v 17.46178 z"
+       id="path33790"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#94ff98;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 137.50977,31.027986 v 6.1646"
+       id="path35054"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#94ff98;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 135.34277,30.109546 v 5.74232"
+       id="path35056"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#94ff98;fill-opacity:1;stroke:#ff0000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2710)"
+       d="m 135.34291,10.836846 -1.4e-4,5.68721"
+       id="path35173"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#94ff98;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 132.47647,23.583746 h -5.72194"
+       id="path37310" />
+    <path
+       style="fill:#94ff98;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 140.71049,18.346466 3.88528,-1.1e-4"
+       id="path37314-0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#94ff98;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 140.71049,21.838816 3.88528,-1.1e-4"
+       id="path37314-4"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#94ff98;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 140.71049,25.331176 3.88528,-1.1e-4"
+       id="path37314-2"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#94ff98;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 140.71049,28.823526 3.88528,-1.1e-4"
+       id="path37314-9"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#94ff98;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 132.43175,79.45749 v 10.723 l 8.27909,3.36814 V 76.08685 Z"
+       id="path33790-9-7"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#94ff98;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 137.51012,77.37475 v -6.1646"
+       id="path35054-5-6"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#94ff98;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 135.34312,78.29319 V 72.8212"
+       id="path35056-0-7"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#94ff98;fill-opacity:1;stroke:#ff0000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2710)"
+       d="m 135.34325,97.58134 -1.4e-4,-5.70267"
+       id="path35173-5-1"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#94ff98;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 132.47682,84.81899 h -5.72194"
+       id="path37310-9-8" />
+    <path
+       style="fill:#94ff98;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 140.71084,90.05627 3.88528,1.1e-4"
+       id="path37314-0-4-9"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#94ff98;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 140.71084,86.56392 3.88528,1.1e-4"
+       id="path37314-4-2-0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#94ff98;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 140.71084,83.07156 3.88528,1.1e-4"
+       id="path37314-2-7-2"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#94ff98;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 140.71084,79.57921 3.88528,1.1e-4"
+       id="path37314-9-8-7"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#94ff98;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 132.43224,108.70067 v 10.723 l 8.27909,3.36814 v -17.46178 z"
+       id="path33790-9-7-5"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#94ff98;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 137.51061,106.61793 v -6.1646"
+       id="path35054-5-6-6"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#94ff98;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 135.34361,107.53637 v -5.83243"
+       id="path35056-0-7-4"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#94ff98;fill-opacity:1;stroke:#ff0000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2710)"
+       d="m 135.34374,126.82452 -1.3e-4,-5.70267"
+       id="path35173-5-1-3"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#94ff98;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 132.47731,114.06217 h -5.72194"
+       id="path37310-9-8-5" />
+    <path
+       style="fill:#94ff98;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 140.71133,119.29945 3.88528,1.1e-4"
+       id="path37314-0-4-9-2"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#94ff98;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 140.71133,115.8071 3.88528,1.1e-4"
+       id="path37314-4-2-0-5"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#94ff98;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 140.71133,112.31474 3.88528,1.1e-4"
+       id="path37314-2-7-2-3"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#94ff98;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 140.71133,108.82239 3.88528,1.1e-4"
+       id="path37314-9-8-7-1"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g54809"
+       transform="translate(-4.3631756,-89.263954)"
+       style="display:inline;fill:#94ff98;fill-opacity:1"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999">
+      <rect
+         style="fill:#94ff98;fill-opacity:1;stroke:#000000;stroke-width:0.238124;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect33102-1-3"
+         width="17.999876"
+         height="17.999876"
+         x="100.59898"
+         y="103.84776"
+         ry="0" />
+      <path
+         style="fill:#94ff98;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 118.58795,112.8477 h 4.37465"
+         id="path54508-2" />
+      <path
+         style="fill:#94ff98;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 96.252881,112.8477 h 4.374649"
+         id="path54508-2-9" />
+    </g>
+    <path
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1781)"
+       d="M 105.0665,7.5819122 V 14.010356"
+       id="path54844-47-4-0-8-9"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.93888889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:none;display:inline;stroke-width:0.264583;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="100.5796"
+       y="25.387182"
+       id="text57622-1"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999"><tspan
+         sodipodi:role="line"
+         id="tspan57620-9"
+         style="stroke-width:0.264583;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:4.93888889px"
+         x="100.5796"
+         y="25.387182">TIA</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend-3)"
+       d="m 137.82787,10.709412 v 4.587624"
+       id="path8409-0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\gate_mux.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:none;display:inline;fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+       x="138.29344"
+       y="10.145783"
+       id="text67532-2-25-7-4"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\gate_mux.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999"><tspan
+         sodipodi:role="line"
+         id="tspan67530-5-8-38-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+         x="138.29344"
+         y="10.145783">-3V</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:none;display:inline;fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+       x="100.73682"
+       y="6.9869676"
+       id="text67532-2-2"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999"><tspan
+         sodipodi:role="line"
+         id="tspan67530-5-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+         x="100.73682"
+         y="6.9869676">12V</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:none;display:inline;fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+       x="128.38281"
+       y="97.454391"
+       id="text67532-6-7"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999"><tspan
+         sodipodi:role="line"
+         id="tspan67530-0-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+         x="128.38281"
+         y="97.454391">5V</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:none;display:inline;fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+       x="128.38281"
+       y="126.44555"
+       id="text67532-6-6"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999"><tspan
+         sodipodi:role="line"
+         id="tspan67530-0-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+         x="128.38281"
+         y="126.44555">5V</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker2710)"
+       d="m 138.26555,41.638956 v 4.58762"
+       id="path8409"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\gate_mux.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <path
+       style="fill:#94ff98;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 132.43189,59.775966 v -10.723 l 8.27909,-3.36814 v 17.46178 z"
+       id="path33790-9"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#94ff98;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 137.51026,61.858706 v 6.1646"
+       id="path35054-5"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#94ff98;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 135.34326,60.940266 v 5.65221"
+       id="path35056-0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#94ff98;fill-opacity:1;stroke:#ff0000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2710)"
+       d="m 135.34341,41.652116 -1.4e-4,5.70267"
+       id="path35173-5"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#94ff98;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 132.47696,54.414466 h -5.72194"
+       id="path37310-9" />
+    <path
+       style="fill:#94ff98;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 140.71098,49.177186 3.88528,-1.1e-4"
+       id="path37314-0-4"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#94ff98;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 140.71098,52.669536 3.88528,-1.1e-4"
+       id="path37314-4-2"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#94ff98;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 140.71098,56.161896 3.88528,-1.1e-4"
+       id="path37314-2-7"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#94ff98;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 140.71098,59.654246 3.88528,-1.1e-4"
+       id="path37314-9-8"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#94ff98;fill-opacity:1;stroke:#ff0000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2710)"
+       d="m 121.05235,54.414326 5.70267,1.4e-4"
+       id="path35173-5-5"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:none;display:inline;fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+       x="123.69342"
+       y="44.898338"
+       id="text67532-2-25"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\gate_mux.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999"><tspan
+         sodipodi:role="line"
+         id="tspan67530-5-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+         x="123.69342"
+         y="44.898338"> 3.3V</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:none;display:inline;fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+       x="110.75439"
+       y="55.539047"
+       id="text67532-2-5-1"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\gate_mux.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999"><tspan
+         sodipodi:role="line"
+         id="tspan67530-5-5-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+         x="110.75439"
+         y="55.539047">3.3V</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:none;display:inline;fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+       x="126.18672"
+       y="10.145783"
+       id="text67532-2-25-72"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\gate_mux.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999"><tspan
+         sodipodi:role="line"
+         id="tspan67530-5-8-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+         x="126.18672"
+         y="10.145783"> 3.3V</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 126.75453,23.583746 h -8.15511"
+       id="path64364"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:none;display:inline;fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+       x="138.98599"
+       y="44.898338"
+       id="text67532-2-25-7"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\gate_mux.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999"><tspan
+         sodipodi:role="line"
+         id="tspan67530-5-8-38"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+         x="138.98599"
+         y="44.898338">-3V</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer16"
+     inkscape:label="power"
+     style="display:inline">
+    <rect
+       style="display:inline;fill:#94f9ff;fill-opacity:1;stroke:#000000;stroke-width:0.144003;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect33102-1-3-3-0"
+       width="10.885259"
+       height="10.885259"
+       x="19.305841"
+       y="109.83987"
+       ry="0"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <rect
+       style="display:inline;fill:#94f9ff;fill-opacity:1;stroke:#000000;stroke-width:0.144003;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect33102-1-3-3-0-1"
+       width="10.885259"
+       height="10.885259"
+       x="19.01771"
+       y="128.49326"
+       ry="0"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <rect
+       style="display:inline;fill:#94f9ff;fill-opacity:1;stroke:#000000;stroke-width:0.144003;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect33102-1-3-3-0-0"
+       width="10.885259"
+       height="10.885259"
+       x="41.773663"
+       y="127.57343"
+       ry="0"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 30.191099,109.83988 19.305842,120.72514"
+       id="path75825"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 29.902965,128.49327 19.017708,139.37853"
+       id="path75827"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 52.658917,127.57343 41.77366,138.45869"
+       id="path75829"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:none;display:inline;stroke-width:0.264583"
+       x="19.923969"
+       y="112.98904"
+       id="text76463"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999"><tspan
+         sodipodi:role="line"
+         id="tspan76461"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.264583"
+         x="19.923969"
+         y="112.98904">=</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:none;display:inline;stroke-width:0.264583"
+       x="26.269211"
+       y="120.82082"
+       id="text76463-9"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999"><tspan
+         sodipodi:role="line"
+         id="tspan76461-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.264583"
+         x="26.269211"
+         y="120.82082">=</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:none;display:inline;stroke-width:0.264583"
+       x="19.441946"
+       y="131.44858"
+       id="text76463-8"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999"><tspan
+         sodipodi:role="line"
+         id="tspan76461-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.264583"
+         x="19.441946"
+         y="131.44858">=</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:none;display:inline;stroke-width:0.264583"
+       x="26.296915"
+       y="139.28036"
+       id="text76463-9-2"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999"><tspan
+         sodipodi:role="line"
+         id="tspan76461-7-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.264583"
+         x="26.296915"
+         y="139.28036">=</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:none;display:inline;stroke-width:0.264583"
+       x="42.38905"
+       y="130.88326"
+       id="text76463-1"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999"><tspan
+         sodipodi:role="line"
+         id="tspan76461-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.264583"
+         x="42.38905"
+         y="130.88326">=</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:none;display:inline;stroke-width:0.264583"
+       x="48.989155"
+       y="138.46017"
+       id="text76463-9-3"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999"><tspan
+         sodipodi:role="line"
+         id="tspan76461-7-3"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.264583"
+         x="48.989155"
+         y="138.46017">=</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:none;display:inline;stroke-width:0.264583"
+       x="19.11797"
+       y="108.21025"
+       id="text80167"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999"><tspan
+         sodipodi:role="line"
+         id="tspan80165"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.264583"
+         x="19.11797"
+         y="108.21025">Boost</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:none;display:inline;stroke-width:0.264583"
+       x="19.854456"
+       y="127.4635"
+       id="text81647"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999"><tspan
+         sodipodi:role="line"
+         id="tspan81645"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.264583"
+         x="19.854456"
+         y="127.4635">LDO</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:none;display:inline;stroke-width:0.264583"
+       x="42.176411"
+       y="126.56186"
+       id="text81647-1"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999"><tspan
+         sodipodi:role="line"
+         id="tspan81645-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.264583"
+         x="42.176411"
+         y="126.56186">LDO</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3429)"
+       d="m 10.388698,111.67815 h 8.403898"
+       id="path82719"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:none;display:inline;stroke-width:0.264583"
+       x="33.678719"
+       y="110.75235"
+       id="text84376"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999"><tspan
+         sodipodi:role="line"
+         id="tspan84374"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+         x="33.678719"
+         y="110.75235">13.5V</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3429);fill-opacity:1"
+       d="M 29.910305,130.33154 H 41.069872"
+       id="path90919"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend-2)"
+       d="m 52.654372,130.33154 h 5.425051"
+       id="path90919-2"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:none;display:inline;stroke-width:0.264583"
+       x="31.796583"
+       y="129.1601"
+       id="text91881"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999"><tspan
+         sodipodi:role="line"
+         id="tspan91879"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+         x="31.796583"
+         y="129.1601">12V</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:none;display:inline;stroke-width:0.264583"
+       x="54.151024"
+       y="129.02415"
+       id="text92841"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999"><tspan
+         sodipodi:role="line"
+         id="tspan92839"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+         x="54.151024"
+         y="129.02415">5V</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:none;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       x="8.2153149"
+       y="110.75748"
+       id="text92841-5"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999"><tspan
+         sodipodi:role="line"
+         id="tspan92839-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+         x="8.2153149"
+         y="110.75748">5V</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+         x="8.2153149"
+         y="116.93109"
+         id="tspan96858">USB</tspan></text>
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.328509;stroke-miterlimit:4;stroke-dasharray:0.985526, 0.985526;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect100175"
+       width="60.902805"
+       height="54.364357"
+       x="5.9969053"
+       y="101.798"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <rect
+       style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.352675;stroke-miterlimit:4;stroke-dasharray:1.05802, 1.05802;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect100175-6"
+       width="61.010311"
+       height="22.866844"
+       x="5.94315"
+       y="165.28502"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:none;display:inline;stroke-width:0.264583"
+       x="5.5125775"
+       y="99.461945"
+       id="text101205"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999"><tspan
+         sodipodi:role="line"
+         id="tspan101203"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.264583"
+         x="5.5125775"
+         y="99.461945">Positive power supply</tspan></text>
+    <rect
+       style="display:inline;fill:#94f9ff;fill-opacity:1;stroke:#000000;stroke-width:0.144003;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect33102-1-3-3-0-0-1"
+       width="10.885259"
+       height="10.885259"
+       x="41.773663"
+       y="143.41469"
+       ry="0"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 52.658916,143.4147 41.773659,154.29996"
+       id="path75829-6"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:none;display:inline;stroke-width:0.264583"
+       x="42.38905"
+       y="146.59709"
+       id="text76463-1-8"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999"><tspan
+         sodipodi:role="line"
+         id="tspan76461-5-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.264583"
+         x="42.38905"
+         y="146.59709">=</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:none;display:inline;stroke-width:0.264583"
+       x="48.989155"
+       y="154.30144"
+       id="text76463-9-3-2"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999"><tspan
+         sodipodi:role="line"
+         id="tspan76461-7-3-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.264583"
+         x="48.989155"
+         y="154.30144">=</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:none;display:inline;stroke-width:0.264583"
+       x="42.176411"
+       y="142.65799"
+       id="text81647-1-1"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999"><tspan
+         sodipodi:role="line"
+         id="tspan81645-4-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.264583"
+         x="42.176411"
+         y="142.65799">LDO</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend-2-9)"
+       d="m 52.654371,146.17281 h 5.425051"
+       id="path90919-2-9"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:none;display:inline;stroke-width:0.264583"
+       x="54.151024"
+       y="144.86543"
+       id="text92841-3"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999"><tspan
+         sodipodi:role="line"
+         id="tspan92839-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+         x="54.151024"
+         y="144.86543">3.3V</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3429);fill-opacity:1"
+       d="m 35.335355,130.33154 v 16.03865 h 5.870469"
+       id="path104616"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <rect
+       style="display:inline;fill:#94ff98;fill-opacity:1;stroke:#000000;stroke-width:0.144003;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect33102-1-3-3-0-0-1-6"
+       width="10.885259"
+       height="10.885259"
+       x="19.489626"
+       y="172.70135"
+       ry="0"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 30.374883,172.70131 19.489625,183.58657"
+       id="path75829-6-4"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:none;display:inline;stroke-width:0.264583"
+       x="19.850145"
+       y="175.11914"
+       id="text76463-1-8-6"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999"><tspan
+         sodipodi:role="line"
+         id="tspan76461-5-9-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.264583"
+         x="19.850145"
+         y="175.11914">=</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:none;display:inline;stroke-width:0.264583"
+       x="17.853434"
+       y="170.97786"
+       id="text81647-1-1-2"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999"><tspan
+         sodipodi:role="line"
+         id="tspan81645-4-7-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.264583"
+         x="17.853434"
+         y="170.97786">Inverter</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 26.777003,182.32575 c 0.305744,-0.3042 0.596924,-0.64562 1.274337,0 0.803441,0.80717 1.083038,0.35299 1.385842,0"
+       id="path23921"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <rect
+       style="display:inline;fill:#94ff98;fill-opacity:1;stroke:#000000;stroke-width:0.144003;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect33102-1-3-3-0-0-1-2"
+       width="10.885259"
+       height="10.885259"
+       x="41.843918"
+       y="172.70132"
+       ry="0"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 52.729169,172.70133 41.843912,183.58659"
+       id="path75829-6-0"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:none;display:inline;stroke-width:0.264583"
+       x="42.204437"
+       y="175.11914"
+       id="text76463-1-8-4"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999"><tspan
+         sodipodi:role="line"
+         id="tspan76461-5-9-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.264583"
+         x="42.204437"
+         y="175.11914">=</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:none;display:inline;stroke-width:0.264583"
+       x="49.951447"
+       y="183.58807"
+       id="text76463-9-3-2-5"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999"><tspan
+         sodipodi:role="line"
+         id="tspan76461-7-3-4-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.264583"
+         x="49.951447"
+         y="183.58807">=</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:none;display:inline;stroke-width:0.264583"
+       x="42.756401"
+       y="171.05261"
+       id="text81647-1-1-3"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999"><tspan
+         sodipodi:role="line"
+         id="tspan81645-4-7-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.264583"
+         x="42.756401"
+         y="171.05261">LDO</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend-2-9-4)"
+       d="m 52.724624,175.45944 h 5.425051"
+       id="path90919-2-9-4"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:none;display:inline;stroke-width:0.264583"
+       x="53.869904"
+       y="180.01402"
+       id="text92841-3-0"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999"><tspan
+         sodipodi:role="line"
+         id="tspan92839-9-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+         x="53.869904"
+         y="180.01402">-3.0V</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker3844)"
+       d="M 30.45665,175.50805 H 41.288515"
+       id="path27371"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:none;display:inline;stroke-width:0.264583"
+       x="33.005325"
+       y="174.64789"
+       id="text28310"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999"><tspan
+         sodipodi:role="line"
+         id="tspan28308"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+         x="33.005325"
+         y="174.64789">-5V</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend-4)"
+       d="M 7.9646023,175.50805 H 18.796467"
+       id="path27371-8"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:none;display:inline;stroke-width:0.264583"
+       x="10.873315"
+       y="174.61551"
+       id="text28310-8"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999"><tspan
+         sodipodi:role="line"
+         id="tspan28308-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+         x="10.873315"
+         y="174.61551">5V</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:none;display:inline;stroke-width:0.264583"
+       x="5.6612487"
+       y="162.9664"
+       id="text101205-7"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999"><tspan
+         sodipodi:role="line"
+         id="tspan101203-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.264583"
+         x="5.6612487"
+         y="162.9664">Negative power supply</tspan></text>
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker3429)"
+       d="m 30.329219,111.9505 h 4.906195 v 10.13097 H 24.339835 14.718591 l 0,9.91234 h 3.695577"
+       id="path1739"
+       sodipodi:nodetypes="ccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer17"
+     inkscape:label="legend"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-size:4.93888889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:none;display:inline;stroke-width:0.264583;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="101.94695"
+       y="142.47086"
+       id="text112068"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:4.93888889px"
+         x="101.94695"
+         y="142.47086"
+         id="tspan112072">Digital signals</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:4.93888889px"
+         x="101.94695"
+         y="146.88058"
+         id="tspan9361">Power signals</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.264583;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:4.93888889px"
+         x="101.94695"
+         y="151.2903"
+         id="tspan9363">Analog/measurement signals</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.965;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 99.960474,153.34063 h -4.95623"
+       id="path64364-5"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <path
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.965;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 99.960474,147.01378 h -4.95623"
+       id="path64364-5-0"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <path
+       style="display:inline;fill:none;stroke:#002eff;stroke-width:0.965;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 99.960474,141.01644 h -4.95623"
+       id="path64364-5-0-4"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="controller_signals"
+     style="display:inline">
+    <path
+       style="display:inline;fill:none;stroke:#002eff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 56.994716,78.690296 v 12.67965 h 12.90266"
+       id="path65074"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker55787-4)"
+       d="M 70.279677,95.065526 H 55.115068 v -15.83363"
+       id="path65984"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:none;display:inline;stroke-width:0.264583"
+       x="41.287495"
+       y="90.412369"
+       id="text119919"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999"><tspan
+         sodipodi:role="line"
+         id="tspan119917"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.264583"
+         x="41.287495"
+         y="90.412369">I<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';baseline-shift:sub"
+   id="tspan121823">sense</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.93888889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:none;display:inline;stroke-width:0.264583;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="30.562941"
+       y="74.643265"
+       id="text74024"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999"><tspan
+         sodipodi:role="line"
+         id="tspan74022"
+         style="stroke-width:0.264583;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:4.93888889px"
+         x="30.562941"
+         y="74.643265">USB</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#0000ff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 51.738074,60.339846 V 32.750456"
+       id="path140190"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <path
+       style="display:inline;fill:none;stroke:#0000ff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 50.527455,44.474346 2.453097,2.45311"
+       id="path140192"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:none;display:inline;stroke-width:0.264583"
+       x="42.3717"
+       y="47.023026"
+       id="text140616"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999"><tspan
+         sodipodi:role="line"
+         id="tspan140614"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.264583"
+         x="42.3717"
+         y="47.023026">SPI</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#002eff;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker55787)"
+       d="M 42.907905,75.814666 H 14.072953"
+       id="path72710"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <path
+       style="display:inline;fill:none;stroke:#002eff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 24.88606,74.282816 3.108769,3.10876"
+       id="path72712"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 22.700912,79.171246 h 1.599438 l 0.596974,-0.59698 h 2.106303 l 0.591341,0.59135 h 1.683917"
+       id="path72714"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 22.700912,79.886486 h 1.599438 l 0.596974,0.59698 h 2.106303 l 0.591341,-0.59135 h 1.683917"
+       id="path72714-5"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer12"
+     inkscape:label="emitter_signals_out"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:none;display:inline;stroke-width:0.264583"
+       x="152.91541"
+       y="76.946831"
+       id="text44226-1-1"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999"><tspan
+         sodipodi:role="line"
+         id="tspan44224-1-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.264583"
+         x="152.91541"
+         y="76.946831">Drive emitter currents</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer14"
+     inkscape:label="gatespannungen"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:none;display:inline;stroke-width:0.264583"
+       x="152.82617"
+       y="47.406433"
+       id="text44226-1"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\gate_mux.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999"><tspan
+         sodipodi:role="line"
+         id="tspan44224-1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.264583"
+         x="152.82617"
+         y="47.406433">Gate voltages</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#0000ff;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 144.59626,49.177076 h 46.42732"
+       id="path105779-9"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\gate_mux.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <path
+       style="display:inline;fill:none;stroke:#0000ff;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 144.59626,52.669426 h 46.42732"
+       id="path105779-0-1"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\gate_mux.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <path
+       style="display:inline;fill:none;stroke:#0000ff;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 144.59626,56.161786 h 46.42732"
+       id="path105779-0-5-2"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\gate_mux.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <path
+       style="display:inline;fill:none;stroke:#0000ff;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Mend)"
+       d="m 144.59626,59.654136 h 46.42732"
+       id="path105779-0-9-6"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\gate_mux.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <path
+       style="display:inline;fill:none;stroke:#0000ff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 154.82356,49.142346 v 2.74833 c 1.03431,0.30583 0.61552,1.44611 0,1.57691 v 8.39921"
+       id="path1256"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\gate_mux.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <path
+       style="display:inline;fill:none;stroke:#0000ff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 159.32902,52.566496 v 2.90603 c 1.06613,0.33766 0.67067,1.38828 0,1.4868 v 4.90747"
+       id="path1258"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\gate_mux.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <path
+       style="display:inline;fill:none;stroke:#0000ff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 163.74437,56.170866 v 2.74833 c 1.07408,0.21942 0.87152,1.37388 0,1.44175 v 1.57691"
+       id="path1260"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\gate_mux.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <path
+       style="display:inline;fill:none;stroke:#0000ff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 169.06082,59.685126 v 2.18167"
+       id="path1262"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\gate_mux.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 154.82356,61.866796 1.33225,0.35697 -2.6435,0.70833 2.54222,0.68118 -2.55306,0.68409 2.41477,0.64704 -2.47567,0.79665 2.53826,0.70373 -1.43362,0.44602"
+       id="path1377"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\gate_mux.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 159.32902,61.866796 1.33225,0.35697 -2.6435,0.70833 2.54222,0.68118 -2.55306,0.68409 2.41477,0.64704 -2.47567,0.79665 2.53826,0.70373 -1.43362,0.44602"
+       id="path1377-6"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\gate_mux.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 163.74437,61.866796 1.33225,0.35697 -2.6435,0.70833 2.54222,0.68118 -2.55306,0.68409 2.41477,0.64704 -2.47567,0.79665 2.53826,0.70373 -1.43362,0.44602"
+       id="path1377-6-6"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\gate_mux.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 169.06082,61.866796 1.33225,0.35697 -2.6435,0.70833 2.54222,0.68118 -2.55306,0.68409 2.41477,0.64704 -2.47567,0.79665 2.53826,0.70373 -1.43362,0.44602"
+       id="path1377-6-8"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\gate_mux.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 168.78247,66.890806 v 2.01896"
+       id="path3052"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\gate_mux.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 163.46602,66.890806 v 2.01896"
+       id="path3052-7"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\gate_mux.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 159.05067,66.890806 v 2.01896"
+       id="path3052-1"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\gate_mux.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 154.54521,66.890806 v 2.01896"
+       id="path3052-2"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\gate_mux.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <path
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 154.54521,68.909766 h 14.23726"
+       id="path3574"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\gate_mux.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:none;display:inline;fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+       x="170.10172"
+       y="70.010513"
+       id="text67532-2-25-7-7"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\gate_mux.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999"><tspan
+         sodipodi:role="line"
+         id="tspan67530-5-8-38-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#ff0000;fill-opacity:1;stroke-width:0.264583"
+         x="170.10172"
+         y="70.010513">-3V</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer15"
+     inkscape:label="photocurrents"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-size:4.93888889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:none;display:inline;stroke-width:0.264583;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="156.99329"
+       y="15.54692"
+       id="text44226"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999"><tspan
+         sodipodi:role="line"
+         id="tspan44224"
+         style="stroke-width:0.264583;-inkscape-font-specification:'Times New Roman, ';font-family:'Times New Roman';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:4.93888889px"
+         x="156.99329"
+         y="15.54692">Photo currents</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker55787)"
+       d="M 191.5445,18.346356 H 145.11718"
+       id="path105779"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker55787)"
+       d="M 191.5445,21.838706 H 145.11718"
+       id="path105779-0"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker55787)"
+       d="M 191.5445,25.331066 H 145.11718"
+       id="path105779-0-5"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker55787)"
+       d="M 191.5445,28.823416 H 145.11718"
+       id="path105779-0-9"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer13"
+     inkscape:label="emitter_signals_in"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';font-variant-ligatures:none;display:inline;stroke-width:0.264583"
+       x="152.91541"
+       y="106.27622"
+       id="text44226-1-1-8"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999"><tspan
+         sodipodi:role="line"
+         id="tspan44224-1-2-8"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.264583"
+         x="152.91541"
+         y="106.27622">Return emitter currents</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker64599)"
+       d="m 144.59661,108.82251 h 46.42732"
+       id="path105779-5"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <path
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker64599)"
+       d="m 144.59661,112.31486 h 46.42732"
+       id="path105779-0-0"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <path
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker64599)"
+       d="m 144.59661,115.80722 h 46.42732"
+       id="path105779-0-5-4"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <path
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker64599)"
+       d="m 144.59661,119.29957 h 46.42732"
+       id="path105779-0-9-69"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <path
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker64599-7)"
+       d="M 191.02344,79.57932 H 144.59612"
+       id="path105779-5-4"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <path
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker64599-7)"
+       d="M 191.02344,83.07167 H 144.59612"
+       id="path105779-0-0-3"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <path
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker64599-7)"
+       d="M 191.02344,86.56403 H 144.59612"
+       id="path105779-0-5-4-2"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <path
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker64599-7)"
+       d="M 191.02344,90.05638 H 144.59612"
+       id="path105779-0-9-69-4"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="devices"
+     style="display:inline">
+    <rect
+       style="fill:none;fill-opacity:0.3;stroke:#000000;stroke-width:0.521927;stroke-miterlimit:4;stroke-dasharray:0.521927, 1.56578;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect107209"
+       width="55.544155"
+       height="128.44078"
+       x="93.799652"
+       y="1.5330951"
+       ry="3.603894"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <rect
+       style="fill:none;fill-opacity:0.3;stroke:#000000;stroke-width:0.550902;stroke-miterlimit:4;stroke-dasharray:0.550902, 1.65271;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect107999"
+       width="89.922249"
+       height="189.06148"
+       x="1.5521667"
+       y="1.547567"
+       ry="4.5061622"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="signals"
+     style="display:inline" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="cs_mux_signals"
+     style="display:inline">
+    <path
+       style="display:inline;fill:none;stroke:#002eff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Mstart)"
+       d="M 137.51012,71.210136 H 60.785866"
+       id="path61278"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <path
+       style="display:inline;fill:none;stroke:#002eff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Mstart)"
+       d="M 135.34312,72.821186 H 60.785866"
+       id="path61280"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <path
+       style="display:inline;fill:none;stroke:#002eff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Mstart)"
+       d="M 137.51061,100.45334 H 122.90979 V 86.145166 c -1.21584,0.0136 -1.46439,-3.08811 0,-3.05841 v -7.90089 H 60.881441"
+       id="path61983"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <path
+       style="display:inline;fill:none;stroke:#002eff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Mstart)"
+       d="M 135.34361,101.70395 H 120.99828 V 86.145166 c -1.41613,0.0111 -1.4744,-2.89288 0,-2.99469 v -6.56284 H 60.9133"
+       id="path61985"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer19"
+     inkscape:label="det_mux_signals"
+     style="display:inline">
+    <path
+       style="display:inline;fill:none;stroke:#002eff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Mstart)"
+       d="M 135.34277,35.851866 H 67.284985 v 26.8455 H 60.9133"
+       id="path60533"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <path
+       style="display:inline;fill:none;stroke:#002eff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Mstart)"
+       d="M 137.50977,37.192586 H 68.878537 v 26.8455 h -7.893272"
+       id="path60533-1"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <path
+       style="display:inline;fill:none;stroke:#002eff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Mstart)"
+       d="M 135.34326,66.592476 H 60.785866"
+       id="path61001"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+    <path
+       style="display:inline;fill:none;stroke:#002eff;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Mstart)"
+       d="M 137.51026,68.023306 H 60.9133"
+       id="path61003"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer11"
+     inkscape:label="cs_signal_out"
+     style="display:inline">
+    <path
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#marker3429)"
+       d="m 94.775324,92.154026 h 22.463656 v -7.33514 h 9.5159"
+       id="path61395"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer18"
+     inkscape:label="cs_signal_in"
+     style="display:inline">
+    <path
+       style="display:inline;fill:none;stroke:#ff0000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#marker64599)"
+       d="m 94.775324,104.15396 h 22.463656 l 4.9e-4,9.90822 h 9.5159"
+       id="path61395-1"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="adc_signal"
+     style="display:inline">
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker55787)"
+       d="M 91.889704,23.583746 H 65.713199"
+       id="path64366"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\chris\Documents\Institut\cheat_sheets_und_notizen\Diss\images\improved_device_design\Revision\block_diagram.png"
+       inkscape:export-xdpi="400.48999"
+       inkscape:export-ydpi="400.48999" />
+  </g>
+</svg>
