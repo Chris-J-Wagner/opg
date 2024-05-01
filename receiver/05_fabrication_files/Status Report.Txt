@@ -1,0 +1,23 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : PCB Document [opg_receiver_v4_pcb.PcbDoc]
+   Generated File[opg_receiver_v4_pcb_Copper_Signal_Top.gbr]
+   Generated File[opg_receiver_v4_pcb_Copper_Signal_1.gbr]
+   Generated File[opg_receiver_v4_pcb_Copper_Signal_2.gbr]
+   Generated File[opg_receiver_v4_pcb_Copper_Signal_Bot.gbr]
+   Generated File[opg_receiver_v4_pcb_Soldermask_Bot.gbr]
+   Generated File[opg_receiver_v4_pcb_Paste_Bot.gbr]
+   Generated File[opg_receiver_v4_pcb_Paste_Top.gbr]
+   Generated File[opg_receiver_v4_pcb_Soldermask_Top.gbr]
+   Generated File[opg_receiver_v4_pcb_Legend_Bot.gbr]
+   Generated File[opg_receiver_v4_pcb_Legend_Top.gbr]
+   Generated File[opg_receiver_v4_pcb_Profile.gbr]
+   Generated File[ProjectName.RUL]
+   Generated File[ProjectName.EXTREP]
+   Generated File[ProjectName.REP]
+
+
+Files Generated   : 14
+Documents Printed : 0
+
+Finished Output Generation At 20:58:38 On 02.02.2022
